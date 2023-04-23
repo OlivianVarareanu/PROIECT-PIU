@@ -5,9 +5,9 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvidentaMembriConsola", "EvidentaMembriConsola.csproj", "{FB23AD4B-5C6E-4604-9AB6-FD547985A126}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarieModele", "..\LibrarieModele\LibrarieModele\LibrarieModele.csproj", "{C2E6E951-3CAF-45EE-83DB-5F502F7AE554}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarieModele", "..\LibrarieModele\LibrarieModele.csproj", "{C2E6E951-3CAF-45EE-83DB-5F502F7AE554}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NivelStocareDate", "..\NivelStocareDate\NivelStocareDate\NivelStocareDate.csproj", "{4FEBEC10-182F-44CE-A8F1-045FCB728100}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NivelStocareDate", "..\NivelStocareDate\NivelStocareDate.csproj", "{4FEBEC10-182F-44CE-A8F1-045FCB728100}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

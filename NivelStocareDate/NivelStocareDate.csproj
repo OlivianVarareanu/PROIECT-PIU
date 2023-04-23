@@ -45,7 +45,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\LibrarieModele\LibrarieModele\LibrarieModele.csproj">
+    <ProjectReference Include="..\LibrarieModele\LibrarieModele.csproj">
       <Project>{c2e6e951-3caf-45ee-83db-5f502f7ae554}</Project>
       <Name>LibrarieModele</Name>
     </ProjectReference>
